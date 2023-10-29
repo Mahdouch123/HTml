@@ -1,0 +1,16 @@
+li {
+    display: inline;
+}
+.paragraph {
+    color: aqua;
+}
+.image {
+    width: 1400px;
+    height:900px;
+}
+.working{
+    color: crimson;
+}
+.tables{
+    width: 1400px;
+}
